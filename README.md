@@ -12,5 +12,6 @@ Each lab includes an Expo Snack link and a short description.
 | Lab | Title | Expo Snack |
 |----|------|------------|
 | Lab 01 | To-Do List App | 🔗 https://snack.expo.dev/@shimaa_samer/todo_list_1|
+| Lab 02 | To-Do List App | 🔗 https://snack.expo.dev/@shimaa_samer/todo_list_2?platform=web|
 
 # mobile-app--React-Native-
